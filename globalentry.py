@@ -12,7 +12,7 @@ from email.message import EmailMessage
 #     names_ids[i['name']] = i['id']
 
 # put your email here
-you = 'shreyaresh2020@gmail.com'
+you = ''
 # currently hardcoded for the Boston location, will update
 URL = "https://ttp.cbp.dhs.gov/schedulerapi/slots?orderBy=soonest&limit=1&locationId=5441&minimum=1"
 
