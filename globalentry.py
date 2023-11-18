@@ -50,3 +50,6 @@ while True:
         # if len(appt) > 0:
             # sendEmail(appt)
             # break
+        else: 
+            print("no appt found",appt, init)
+            break
